@@ -6,3 +6,9 @@ __pycache__
 .cache
 api_key.py
 crime_data.csv
+
+
+
+crime_map_circle_crime_3.html
+crime_map_circle_crime_4.html
+crime_map_circle_crime_5.html
