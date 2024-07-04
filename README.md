@@ -34,8 +34,9 @@ https://data.census.gov/all?q=Crime%20in%20Los%20Angeles
     - Open the Jupyter notebooks provided in the `notebooks/` directory.
     - Follow the instructions in the notebooks to run the analyses and generate visualizations.
 
-##Features
-Data Preprocessing:
+## Features
+
+** Data Preprocessing:
 
 Cleaning and normalizing the dataset.
 Handling missing values and erroneous data.
